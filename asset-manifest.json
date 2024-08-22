@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Employee-details-using--ReactJs-Hooks-UseState-useEffect-/static/css/main.d7d2cf33.css",
+    "main.js": "/Employee-details-using--ReactJs-Hooks-UseState-useEffect-/static/js/main.ab052243.js",
+    "index.html": "/Employee-details-using--ReactJs-Hooks-UseState-useEffect-/index.html",
+    "main.d7d2cf33.css.map": "/Employee-details-using--ReactJs-Hooks-UseState-useEffect-/static/css/main.d7d2cf33.css.map",
+    "main.ab052243.js.map": "/Employee-details-using--ReactJs-Hooks-UseState-useEffect-/static/js/main.ab052243.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7d2cf33.css",
+    "static/js/main.ab052243.js"
+  ]
+}
